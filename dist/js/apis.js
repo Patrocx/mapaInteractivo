@@ -1,5 +1,4 @@
 var mapa; // Mapa que vamos a modificar
-// clave de api: AIzaSyBm0K2MFExXXQEKMSqXLor8KSaIIRWCSNo
 
 // Variable de la posicion inicial del mapa
 var posicionCentral = {
